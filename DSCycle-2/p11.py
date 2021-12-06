@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  6 10:30:16 2021
 
-@author: sjcet
-"""
 
 #11. Demonstarte the use of sum() function in 1D and 2D array.
 
