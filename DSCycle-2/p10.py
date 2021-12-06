@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  6 10:30:02 2021
-
-@author: sjcet
-"""
-
 #10. Demonstrate the use of append() function in 1D and 2D array.
 
 import numpy as np
