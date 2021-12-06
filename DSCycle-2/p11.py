@@ -1,5 +1,3 @@
-
-
 #11. Demonstarte the use of sum() function in 1D and 2D array.
 
 import numpy as np
